@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Show R as the repo language on GitHub
+*.R linguist-language=R

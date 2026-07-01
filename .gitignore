@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rcheck/
+
+# Data — raw data file tracked, but keep large/sensitive files out
+data/raw/*.pdf
+
+# Outputs — figures are generated, not tracked
+outputs/figures/*.png
+outputs/figures/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
